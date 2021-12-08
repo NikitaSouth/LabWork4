@@ -1,4 +1,4 @@
-Fourth labarotory work in BMSTU.
+Fourth laboratory work in BMSTU.
 Freshman year, first semester.
 
 User inputs an array of numbers; Memory is allocated dynamically;
